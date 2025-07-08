@@ -243,15 +243,15 @@ export const LandingPage: React.FC = () => {
                   <div className="flex items-center justify-center space-x-4 text-white/80 text-sm">
                     <div className="flex items-center space-x-2">
                       <div className="w-2 h-2 bg-flux-accent-green rounded-full animate-pulse" />
-                      <span>MetaMask</span>
+                      <span>Stoic Wallet</span>
                     </div>
                     <div className="flex items-center space-x-2">
                       <div className="w-2 h-2 bg-flux-accent-green rounded-full animate-pulse" />
-                      <span>WalletConnect</span>
+                      <span>NNS wallet</span>
                     </div>
                     <div className="flex items-center space-x-2">
                       <div className="w-2 h-2 bg-flux-accent-green rounded-full animate-pulse" />
-                      <span>Coinbase</span>
+                      <span>Plug Wallet</span>
                     </div>
                   </div>
                   <p className="text-white/60 text-xs mt-2 text-center">
